@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Convertidor de Unidades</string>
+    <string name="txt1">Unidades de Temperatura</string>
+    <string name="txt2">Unidades de Area</string>
+    <string name="txt3">Unidades de Distancia</string>
+
+    <string name="btn1">Celsius a Kelvin</string>
+    <string name="btn2">Kelvin a Celsius</string>
+    <string name="btn3">Metro² a Hectarea</string>
+    <string name="btn4">Hectarea a Metro²</string>
+    <string name="btn5">Metro a centimetro</string>
+    <string name="btn6">Centimetro a metro</string>
+
+
+    <string name="ac1">Unidad</string>
+    <string name="ac2">Calcular</string>
+    <string name="ac3">Resultado</string>
+</resources>

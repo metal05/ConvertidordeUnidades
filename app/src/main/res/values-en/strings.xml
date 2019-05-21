@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Unit Convertor</string>
+    <string name="txt1">Temparature Units</string>
+    <string name="txt2">Area Units</string>
+    <string name="txt3">Distance Units</string>
+
+    <string name="btn1">Celsius to Kelvin</string>
+    <string name="btn2">Kelvin to Celsius</string>
+    <string name="btn3">Meter² to Hectare</string>
+    <string name="btn4">Hectare to Meter²</string>
+    <string name="btn5">Meter to centimeter</string>
+    <string name="btn6">Centimeter to meter</string>
+
+    <string name="ac1">Unit</string>
+    <string name="ac2">Calculate</string>
+    <string name="ac3">Result</string>
+</resources>
